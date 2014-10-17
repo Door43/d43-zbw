@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zbw:home|Door43 (zbw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zbw|d43-zbw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zbw/archive/master.zip|d43-zbw.zip]]
+
+**Recent Changes**
+{{changes>ns = zbw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zbw|Ethnologue data]]
+
